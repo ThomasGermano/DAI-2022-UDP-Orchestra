@@ -2,9 +2,9 @@
   "name": "auditor",
   "version": "1.0.0",
   "description": "Auditor application for the orchestra simulation",
-  "main": "index.js",
+  "main": "auditor.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node auditor.js"
   },
   "dependencies": {
     "net": "^1.0.0"

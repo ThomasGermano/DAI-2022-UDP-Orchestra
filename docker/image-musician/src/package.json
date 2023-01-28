@@ -2,9 +2,9 @@
   "name": "musician",
   "version": "1.0.0",
   "description": "Musician application for the orchestra simulation",
-  "main": "index.js",
+  "main": "musician.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node musician.js"
   },
   "dependencies": {
     "dgram": "^1.0.0",
