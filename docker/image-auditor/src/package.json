@@ -1,0 +1,12 @@
+{
+  "name": "auditor",
+  "version": "1.0.0",
+  "description": "Auditor application for the orchestra simulation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "net": "^1.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "multicast-group": "239.42.42.42",
+  "multicast-port": 4242,
+  "tcp-port": 2205,
+  "keep-active-timeout": 5000,
+  "sounds": {
+    "ti-ta-ti": "piano",
+    "pouet": "trumpet",
+    "trulu": "flute",
+    "gzi-gzi": "violin",
+    "boum-boum": "drum"
+  }
+}

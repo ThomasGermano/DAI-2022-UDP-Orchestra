@@ -1,0 +1,14 @@
+{
+  "name": "musician",
+  "version": "1.0.0",
+  "description": "Musician application for the orchestra simulation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dgram": "^1.0.0",
+    "uuid": "^8.3.0",
+    "yargs": "^16.0.2"
+  }
+}
